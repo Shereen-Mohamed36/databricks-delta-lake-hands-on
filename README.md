@@ -1,7 +1,7 @@
 #  Delta Lake Hands-on Operations with Databricks
 
 ## Overview
-A hands-on implementation exploring core **Delta Lake** features and table management operations using **PySpark** on **Databricks**. This project demonstrates practical data engineering concepts such as ACID compliance, schema governance, historical auditing, and time travel.
+A hands-on implementation exploring core **Delta Lake** features and table management operations using **PySpark** on **Databricks**. This task demonstrates practical data engineering concepts such as ACID compliance, schema governance, historical auditing, and time travel.
 
 ---
 
@@ -33,6 +33,6 @@ databricks-deltalake-handson/
 │   └── delta_lake_orders_pipeline.ipynb   # PySpark Databricks Notebook
 │
 ├── documentation/
-│   └── Delta_Lake_Task_Report.pdf         # Detailed step-by-step report with execution screenshots
+│   └── databricks_Task.pdf         # Detailed step-by-step report with execution screenshots
 │
 └── README.md
